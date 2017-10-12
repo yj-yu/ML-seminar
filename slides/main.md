@@ -10,7 +10,7 @@ class: titlepage, no-number
 ## .gray.author[Youngjae Yu]
 
 ### .x-small[https://github.com/yj-yu/ml-seminar]
-### .x-small[https://yj-yu.github.io/ml-seminar]
+### .x-small[https://yj-yu.github.io/ML-seminar]
 
 .bottom.img-66[ ![](images/snu-logo.png) ]
 
