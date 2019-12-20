@@ -69,7 +69,7 @@ python으로 퀴즈를 풀고 프로그래밍에 자신이 생기면!
 
 Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세요.
 
-- https://leetcode.com/problemset/all/ 
+- https://leetcode.com/problemset/all/
 
 .center.img-66[ ![](images/leetcode.png) ]
 
@@ -93,9 +93,9 @@ Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세
 
 - Building Machine Learning Systems with Python
 	- [교재](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python), [코드](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
-	
+
 scikit-learn과 matplotlib을 생활화 합시다!
-	
+
 ---
 
 template: inverse
@@ -121,17 +121,7 @@ template: inverse
 - Daphne Koller : [Probabilistic Graphical Model](https://www.coursera.org/learn/probabilistic-graphical-models)
 - Jeoffrey Hinton : [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
----
-
-
-
-## Youtube for fun
-
-- Hugo larochelle : https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
-
-- Two minutes paper : https://www.youtube.com/user/keeroyz
-
-- Deep Learning TV : https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ
+유명 강좌들은 자체 한글 자막을 지원합니다
 
 ---
 
@@ -142,38 +132,24 @@ https://classroom.udacity.com/courses/ud730
 
 ---
 
-## ML books
+## 머신러닝 책s
 
 - Pattern Recognition and Machine Learning
 .right.img-20[ ![](images/PRML.jpg) ]
 - Machine Learning: A Probabilistic Perspective
 .right.img-20[ ![](images/murphy.jpg) ]
 
-
----
-
-## Open Lecture
-
-Stanford cs231n 
-- http://cs231n.stanford.edu/syllabus.html
-- Andrej Karpathy Lecture note
-- http://cs231n.stanford.edu/reports2016.html
-- http://aikorea.org/cs231n/
-
-cs224n (Natural Language Processing)
-- http://web.stanford.edu/class/cs224n/
-
-UFLDL Tutorial
-- http://ufldl.stanford.edu/tutorial/
+주로 한국인들이 번역한 블로그도 많아요.추천합니다.
 
 ---
 
 ## Fast way to learn
 
-- Find study group!
-- Make your own project!
-- Make your blog!
-- Write paper!
+- 스터디 그룹 만들기
+- 다른 사람들이 만든 코드를 돌려보기
+- 조금씩 바꿔가면서 내 코드 만들기
+- 블로그에 배운 것 나누기
+- 프로젝트 해보기!
 
 
 ---
@@ -206,16 +182,6 @@ code(https://github.com/yj-yu/ml-seminar)
 3. Update graph
 
 .center.img-66[ ![](images/TF.png) ]
-
-
----
-
-## find your weapon
-
-Github? or Tensortalk
-https://tensortalk.com/
-
-.center.img-66[ ![](images/tensortalk.png) ]
 
 
 ---
