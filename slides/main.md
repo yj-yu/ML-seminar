@@ -185,6 +185,103 @@ code(https://github.com/yj-yu/ml-seminar)
 
 
 ---
+## ML 적용사례
+
+https://youtu.be/MVBe6_o4cMI
+
+
+
+---
+
+
+http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
+
+
+
+---
+
+
+https://youtu.be/ys5nMO4Q0iY
+
+
+
+---
+https://youtu.be/pW6nZXeWlGM
+
+---
+행동 분석
+
+https://youtu.be/xhp47v5OBXQ
+
+---
+고래 구하고 플랑크톤 분류
+https://youtu.be/B4lKzXeBnvM
+
+---
+이미지 만들기
+https://phillipi.github.io/pix2pix/
+
+---
+OCR 
+
+http://www.robots.ox.ac.uk/~vgg/research/text/#sec-demo
+
+---
+
+Deel RL
+
+https://youtu.be/V1eYniJ0Rnk
+
+https://youtu.be/he8_V0BvbWg
+
+---
+
+Self driving
+
+https://youtu.be/aKed5FHzDTw
+
+---
+
+로보틱스
+
+https://youtu.be/rVlhMGQgDkY
+
+https://youtu.be/tf7IEVTDjng
+
+---
+
+음성생성
+
+https://youtu.be/zg3Ouup_09o
+
+https://youtu.be/0FW99AQmMc8
+
+https://youtu.be/fa5QGremQf8
+작곡
+
+https://youtu.be/j60J1cGINX4
+
+---
+
+예술
+
+https://github.com/luanfujun/deep-photo-styletransfer/blob/master/README.md
+
+---
+
+손글씨
+
+http://www.cs.toronto.edu/~graves/handwriting.html
+
+---
+
+딥러닝 을 만드는 딥러닝
+
+https://github.com/kootenpv/neural_complete
+
+---
+
+
 
 name: last-page
 class: center, middle, no-number
