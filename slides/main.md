@@ -192,20 +192,22 @@ https://youtu.be/MVBe6_o4cMI
 
 
 ---
-
+## ML 적용사례
 
 http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
 
 
 
 ---
-
+## ML 적용사례
 
 https://youtu.be/ys5nMO4Q0iY
 
 
 
 ---
+## ML 적용사례
+
 https://youtu.be/pW6nZXeWlGM
 
 ---
