@@ -21,7 +21,7 @@ layout: false
 
 - Python review, practice!
 - Short-pathway to datascientist
-- Tensorflow?
+- Deep learning library
 
 ---
 
@@ -31,7 +31,7 @@ template: inverse
 
 ---
 
-## 1일 1코딩
+## Python practice
 
 체계적인 코스를 수강하고, 문제에 도전하세요.
 
@@ -43,7 +43,7 @@ template: inverse
 
 ---
 
-## 1일 1코딩
+## Python practice
 
 체계적인 코스를 수강하고, 문제에 도전하세요.
 
@@ -54,7 +54,7 @@ template: inverse
 
 ---
 
-## 1일 1코딩
+## Python practice
 
 python으로 퀴즈를 풀고 프로그래밍에 자신이 생기면!
 
@@ -65,7 +65,7 @@ python으로 퀴즈를 풀고 프로그래밍에 자신이 생기면!
 
 ---
 
-## 1일 1코딩
+## Python practice
 
 Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세요.
 
@@ -76,7 +76,7 @@ Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세
 
 ---
 
-## 되새김이 중요!
+## Datascience practice
 
 한국 사이트도 잘 되어 있습니다.
 
@@ -106,7 +106,7 @@ template: inverse
 
 ## Coursera
 
-굳이 스탠포드 갈 필요 없다
+좋은 품질의 무료 강의
 
 .center.img-66[ ![](images/coursera.png) ]
 
@@ -143,17 +143,6 @@ https://classroom.udacity.com/courses/ud730
 
 ---
 
-## Fast way to learn
-
-- 스터디 그룹 만들기
-- 다른 사람들이 만든 코드를 돌려보기
-- 조금씩 바꿔가면서 내 코드 만들기
-- 블로그에 배운 것 나누기
-- 프로젝트 해보기!
-
-
----
-
 ## Install configuration
 
 ```python
@@ -187,7 +176,7 @@ code(https://github.com/yj-yu/ml-seminar)
 ---
 ## ML 적용사례
 
-https://youtu.be/MVBe6_o4cMI
+[![Video Label](http://img.youtube.com/vi/MVBe6_o4cMI/0.jpg)](https://youtu.be/MVBe6_o4cMI)
 
 
 
@@ -195,6 +184,8 @@ https://youtu.be/MVBe6_o4cMI
 ## ML 적용사례
 
 http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
+[![Video Label](http://iizuka.cs.tsukuba.ac.jp/projects/colorization/images/sup1.png)](http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
+)
 
 
 
@@ -202,6 +193,7 @@ http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
 ## ML 적용사례
 
 https://youtu.be/ys5nMO4Q0iY
+[![Video Label](http://img.youtube.com/vi/ys5nMO4Q0iY/0.jpg)](https://youtu.be/ys5nMO4Q0iY)
 
 
 
@@ -209,77 +201,123 @@ https://youtu.be/ys5nMO4Q0iY
 ## ML 적용사례
 
 https://youtu.be/pW6nZXeWlGM
+[![Video Label](http://img.youtube.com/vi/pW6nZXeWlGM/0.jpg)](https://youtu.be/pW6nZXeWlGM)
 
 ---
 행동 분석
 
 https://youtu.be/xhp47v5OBXQ
+[![Video Label](http://img.youtube.com/vi/xhp47v5OBXQ/0.jpg)](https://youtu.be/xhp47v5OBXQ)
 
 ---
 고래 구하고 플랑크톤 분류
+
 https://youtu.be/B4lKzXeBnvM
+[![Video Label](http://img.youtube.com/vi/B4lKzXeBnvM/0.jpg)](https://youtu.be/B4lKzXeBnvM)
+
 
 ---
 이미지 만들기
+
+
 https://phillipi.github.io/pix2pix/
+[![Video Label](https://phillipi.github.io/pix2pix/images/teaser_v3.jpg)](https://phillipi.github.io/pix2pix/)
+
 
 ---
 OCR 
 
 http://www.robots.ox.ac.uk/~vgg/research/text/#sec-demo
+[![Video Label](http://www.robots.ox.ac.uk/~vgg/research/text/demo.png)](http://www.robots.ox.ac.uk/~vgg/research/text/#sec-demo)
+
 
 ---
 
 Deel RL
 
 https://youtu.be/V1eYniJ0Rnk
+[![Video Label](http://img.youtube.com/vi/V1eYniJ0Rnk/0.jpg)](https://youtu.be/V1eYniJ0Rnk)
+
+
+---
+
 
 https://youtu.be/he8_V0BvbWg
+[![Video Label](http://img.youtube.com/vi/he8_V0BvbWg/0.jpg)](https://youtu.be/he8_V0BvbWg)
+
 
 ---
 
 Self driving
 
 https://youtu.be/aKed5FHzDTw
+[![Video Label](http://img.youtube.com/vi/aKed5FHzDTw/0.jpg)](https://youtu.be/aKed5FHzDTw)
+
 
 ---
 
 로보틱스
 
 https://youtu.be/rVlhMGQgDkY
+[![Video Label](http://img.youtube.com/vi/rVlhMGQgDkY/0.jpg)](https://youtu.be/rVlhMGQgDkY)
+
+
+---
 
 https://youtu.be/tf7IEVTDjng
+[![Video Label](http://img.youtube.com/vi/tf7IEVTDjng/0.jpg)](https://youtu.be/tf7IEVTDjng)
+
+
 
 ---
 
 음성생성
 
+
 https://youtu.be/zg3Ouup_09o
+[![Video Label](http://img.youtube.com/vi/zg3Ouup_09o/0.jpg)](https://youtu.be/zg3Ouup_09o)
+
+
+---
 
 https://youtu.be/0FW99AQmMc8
+[![Video Label](http://img.youtube.com/vi/0FW99AQmMc8/0.jpg)](https://youtu.be/0FW99AQmMc8)
+
+
+---
 
 https://youtu.be/fa5QGremQf8
+[![Video Label](http://img.youtube.com/vi/fa5QGremQf8/0.jpg)](https://youtu.be/fa5QGremQf8)
+
+
+---
+
 작곡
 
+
 https://youtu.be/j60J1cGINX4
+[![Video Label](http://img.youtube.com/vi/j60J1cGINX4/0.jpg)](https://youtu.be/j60J1cGINX4)
 
 ---
 
 예술
 
 https://github.com/luanfujun/deep-photo-styletransfer/blob/master/README.md
+[![Video Label](https://github.com/luanfujun/deep-photo-styletransfer/raw/master/examples/refine_posterization/refine_39.png)](https://github.com/luanfujun/deep-photo-styletransfer/blob/master/README.md)
 
 ---
 
 손글씨
 
 http://www.cs.toronto.edu/~graves/handwriting.html
+[![Video Label](http://www.cs.toronto.edu/~graves/title.jpeg)](http://www.cs.toronto.edu/~graves/handwriting.html)
 
 ---
 
 딥러닝 을 만드는 딥러닝
 
 https://github.com/kootenpv/neural_complete
+[![Video Label](https://github.com/kootenpv/neural_complete/raw/master/images/demo.gif)](https://github.com/kootenpv/neural_complete)
 
 ---
 
