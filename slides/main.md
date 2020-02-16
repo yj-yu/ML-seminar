@@ -51,7 +51,7 @@ https://kr.mathworks.com/products/deep-learning.html
 - Building Machine Learning Systems with Python
 	- [교재](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python), [코드](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
-scikit-learn과 matplotlib을 생활화 합시다!
+scikit-learn과 matplotlib 으로 matlab 처럼 실험 + plot 쉽게 가능.
 
 ---
 
@@ -84,38 +84,6 @@ scikit-learn과 matplotlib을 생활화 합시다!
 .right.img-20[ ![](images/murphy.jpg) ]
 
 주로 한국인들이 번역한 블로그도 많아요. 추천합니다.
-
----
-
-## Install configuration
-
-```python
-git clone https://github.com/sjchoi86/Tensorflow-101.git code/tensorflow-101
-pip install scikit-image
-cd ml-seminar
-ls
-```
-
-code(https://github.com/yj-yu/ml-seminar)
-
-```bash
-./code
-└── tensorflow-101
-
-```
-
-- tensorflow-101 : https://github.com/sjchoi86/Tensorflow-101
-
----
-
-## Tensorflow?
-
-1. Build graph
-2. Feed data and run
-3. Update graph
-
-.center.img-66[ ![](images/TF.png) ]
-
 
 ---
 ## ML 적용사례
