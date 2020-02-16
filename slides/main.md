@@ -19,70 +19,27 @@ layout: false
 
 ## About
 
-- Python review, practice!
-- Short-pathway to datascientist
+- Deep Learning tools
 - Deep learning library
+- Deep learning applications 
 
 ---
 
 template: inverse
 
-# Python review, practice!
+# Deep Learning tools
 
 ---
 
-## Python practice
+## Deep Learning Toolbox - MATLAB
 
-체계적인 코스를 수강하고, 문제에 도전하세요.
+https://kr.mathworks.com/products/deep-learning.html
 
-- https://www.codecademy.com/learn/learn-python
+- 컨벌루션 뉴럴 네트워크(ConvNet, CNN), 장기 단기 메모리(LSTM) 네트워크, 적대 신경망(GAN), 샴 네트워크 등 다양한 모델 지원
 
-.center.img-66[ ![](images/codeacademy.png) ]
+- TensorFlow™ 및 PyTorch와 모델을 교환하고, TensorFlow-Keras 및 Caffe에서 모델을 가져올 수 있음.
 
-
-
----
-
-## Python practice
-
-체계적인 코스를 수강하고, 문제에 도전하세요.
-
-- https://www.hackerrank.com/domains/python/py-introduction/1
-
-.center.img-66[ ![](images/hackerrank.png) ]
-
-
----
-
-## Python practice
-
-python으로 퀴즈를 풀고 프로그래밍에 자신이 생기면!
-
-- https://www.hackerrank.com/domains/python/py-introduction/1
-
-.center.img-66[ ![](images/hackerrank2.png) ]
-
-
----
-
-## Python practice
-
-Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세요.
-
-- https://leetcode.com/problemset/all/
-
-.center.img-66[ ![](images/leetcode.png) ]
-
-
----
-
-## Datascience practice
-
-한국 사이트도 잘 되어 있습니다.
-
-빠르게 훑어보시기 바랍니다.
-
--  https://datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/
+- Parallel Computing Toolbox 로 다중 GPU 지원
 
 ---
 
@@ -95,12 +52,6 @@ Weekly contest에도 나가보고, Google, Facebook의 인터뷰도 풀어보세
 	- [교재](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python), [코드](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 scikit-learn과 matplotlib을 생활화 합시다!
-
----
-
-template: inverse
-
-# 데이터 사이언티스트 지름길
 
 ---
 
@@ -125,13 +76,6 @@ template: inverse
 
 ---
 
-## Udacity
-
-https://classroom.udacity.com/courses/ud730
-
-
----
-
 ## 머신러닝 책s
 
 - Pattern Recognition and Machine Learning
@@ -139,7 +83,7 @@ https://classroom.udacity.com/courses/ud730
 - Machine Learning: A Probabilistic Perspective
 .right.img-20[ ![](images/murphy.jpg) ]
 
-주로 한국인들이 번역한 블로그도 많아요.추천합니다.
+주로 한국인들이 번역한 블로그도 많아요. 추천합니다.
 
 ---
 
